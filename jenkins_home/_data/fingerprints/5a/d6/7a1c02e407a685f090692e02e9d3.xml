@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-08-23 09:54:15.51 UTC</timestamp>
+  <md5sum>5ad67a1c02e407a685f090692e02e9d3</md5sum>
+  <fileName>Credential id=github name=anilkumle1/******</fileName>
+  <usages>
+    <entry>
+      <string>checking</string>
+      <ranges>1-10</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
